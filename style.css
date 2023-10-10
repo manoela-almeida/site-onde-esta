@@ -1,1 +1,48 @@
+body{
+
+    background-color: rgb(23, 185, 230);
+    margin: 0;
+
+
+    background: rgb(246,245,185);
+background: radial-gradient(circle, rgba(185, 189, 246, 0.771) 6%, rgb(13, 35, 112) 23%, rgba(67, 101, 179, 0.802) 83%);
+}
+
+
+.cabecalho{
+
+    background-color: rgb(5, 50, 146);
+    text-align: center;
+    padding: 20px;
+    color: white;
+    font-size: 30px;
+
+
+    text-shadow: 2px 2px rgb(22, 1, 49);
+
+}
+
+.principal{
+
+    padding: 30px;
+    display: flex;
+    justify-content: center;
+}
+
+.celular{
+    width: 450px;
+    border-radius: 50%;
+}
+
+.rodape{
+    background-color: rgb(5, 47, 146);
+    text-align: center;
+    padding: 20px;
+    color: white;
+    font-size: 30px;
+    display: flex;
+    justify-content: space-around;
+
+    text-shadow: 2px 2px rgb(10, 1, 49);
+}
 
